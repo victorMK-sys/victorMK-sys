@@ -6,10 +6,12 @@ Undergraduate working in the field of computer science who enjoys delving into n
 
 ## 🚀Projects:
 [Weather](https://github.com/victorMK-sys/Weather)
+<br>More comming soon...
 
 ## 📫How To Reach Me:
-✉️ victorkilonzi0@gmail.com
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/happy_binary) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victor._mk) 
+✉️ victorkilonzi0@gmail.com<br>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/happy_binary)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victor._mk) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=victorMK-sys&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
