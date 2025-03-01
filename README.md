@@ -10,11 +10,14 @@ Building in JavaScript is my thing.
 ![PHP](https://camo.githubusercontent.com/a7fff07e5cafec1541292e8ded465ab230075fc069fe23317dbb317b3bbaf65d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465)
 ![GitHub](https://camo.githubusercontent.com/7e282220b8ec0dd29cf99be1c0f5e82d74a42bc84ed834ee6afd86b4bad3bfee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
 ![Git](https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![React](https://github.com/user-attachments/assets/9acc9df2-ed03-42a4-bcfa-51b762362791)
+
 
 ### 🚀 Projects:
 [Weather](https://github.com/victorMK-sys/Weather): A simple weather project to display weather at different loacalities
+
 More coming soon...
 
 ### 📫 How To Reach Me
 ✉️ victorkilonzi0@gmail.com
-![![](https://cdn-icons-png.flaticon.com/128/2111/2111463.png)](https://www.instagram.com/victor_.mk/)
+![![Instagram](https://cdn-icons-png.flaticon.com/128/2111/2111463.png)](https://www.instagram.com/victor_.mk/)
